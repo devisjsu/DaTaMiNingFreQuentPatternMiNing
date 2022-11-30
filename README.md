@@ -5,6 +5,11 @@ a)
 
 Write  colabs to demonstrate frequent pattern mining apriori and fpgrowth techniques
 
+Answer :
+
+CMPE255_Apriori_FPGrowth.ipynb
+
+
  
 
 refer to slides shared in the class for hints to colabs.
